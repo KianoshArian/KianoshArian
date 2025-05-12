@@ -2,10 +2,12 @@
 
 I'm a passionate developer with a love for building projects that matter. Welcome to my GitHub profile!
 
-## 🔥 GitHub Stats
-![My Stats](https://github-readme-stats.vercel.app/api?username=KianoshArian&show_icons=true&hide_title=true&theme=merko)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=merko)
-
+## 📰 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KianoshArian&show_icons=true&hide_title=true&theme=merko" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=merko" />
+</p>
 
 ## 🐍 My Contributions
 <picture>
