@@ -29,7 +29,7 @@ I'm a passionate developer with a love for building projects that matter. Welcom
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KianoshArian&show_icons=true&hide_title=true&theme=merko" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=merko" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KianoshArian&layout=compact&theme=merko" />
 </p>
 
 ## 🐍 My Contributions
