@@ -7,9 +7,9 @@ I'm a passionate developer with a love for building projects that matter. Welcom
 ![My Activity Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KianoshArian&langs_count=10&theme=radical)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KianoshArian/KianoshArian/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KianoshArian/KianoshArian/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KianoshArian/KianoshArian/output/github-contribution-grid-snake.svg">
 </picture>
 
 Thanks for stopping by! 😊
